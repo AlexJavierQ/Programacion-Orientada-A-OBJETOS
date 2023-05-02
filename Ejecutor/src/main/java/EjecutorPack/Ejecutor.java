@@ -1,6 +1,6 @@
 
-package Deber3;
-import clase.Terrenos;
+package EjecutorPack;
+import TerrenosPack.Terrenos;
 
 
 public class Ejecutor {

@@ -1,5 +1,5 @@
 
-package clase;
+package TerrenosPack;
 
 /**
  *

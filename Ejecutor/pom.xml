@@ -11,4 +11,5 @@
         <maven.compiler.target>20</maven.compiler.target>
         <exec.mainClass>Deber3.Ejecutor</exec.mainClass>
     </properties>
+    <name>Deber3</name>
 </project>
