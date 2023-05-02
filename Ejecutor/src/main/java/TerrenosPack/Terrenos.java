@@ -1,10 +1,7 @@
 
 package TerrenosPack;
 
-/**
- *
- * @author alexj
- */
+
 public class Terrenos {
     private int costo_terreno;
     private int ancho;
